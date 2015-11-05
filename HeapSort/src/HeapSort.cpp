@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : HeapSort.cpp
 // Author      : @SCUT-Mida
-// Version     :
+// Version     : 1.0
 // Copyright   : Your copyright notice
 // Description : Algorithm--HeapSort in C++, Time complexity:O(nLogn)
 //============================================================================
