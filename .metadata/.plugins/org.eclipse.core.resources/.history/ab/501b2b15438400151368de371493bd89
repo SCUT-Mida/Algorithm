@@ -1,0 +1,15 @@
+//============================================================================
+// Name        : QuickSort.cpp
+// Author      : @SCUT-Mida
+// Version     : 1.0
+// Copyright   : Your copyright notice
+// Description : Algorithm--QuickSort in C++, Time complexity:
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}
